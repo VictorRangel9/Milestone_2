@@ -1,0 +1,27 @@
+---
+title: 'Milestone #2'
+author: "Victor Rangel"
+date: "9/22/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Github Repo URL: https://github.com/VictorRangel9/Milestone_2.git
+
+### Project 1: Suruchi Ramanujan: Opioid Trends Across the United States
+
+Pros: Project does a great job at comparing data over a geographical and time span, making it easy for the user to understand. The project is created in a very user friendly way with helpful descriptions to understand what it exactly it is that the graph or model is trying to convey. 
+
+Cons: Project missing some relevant data point that I think would be interesting to see, such as the proportion of opiod users who overdose, the the change in that proportion over time, to show how effective help is, etc. The portion at the bottom of the page model was very hard to navigate, as it provided data that is not easy to interpret, and could have been explained for the user.
+
+### Project 2: Sophie Webster: HUDS Feedback Analysis
+
+Pros: The project immediatly opens up to the "About" page, which is helpful because it orients the user before exposing them to the graphs, data, and models. I really liked how her graphs and models included animations. I found it quite smart that the student incorporated area codes and even accounted for sentiment, and international students in their data. I loved the use of the word wall to summarize the sentiments shared in each message, very creative and easy to understand. 
+
+Cons:
+It may have been interesting to see how students of different backgrounds shared different thoughts regarding HUDS food, yet I understand how this would be difficult to determine based on phone numbers, which I think is a significant limitation of this data. The data is purely limited to sentiment and geographical area, which can also be flawed if only determined by area code.
+
+
